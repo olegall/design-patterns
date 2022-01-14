@@ -1,0 +1,12 @@
+D:\Работа\C#\Design Patterns Metanit\Visitor\bin\Debug\netcoreapp3.1\Visitor.exe
+D:\Работа\C#\Design Patterns Metanit\Visitor\bin\Debug\netcoreapp3.1\Visitor.deps.json
+D:\Работа\C#\Design Patterns Metanit\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.json
+D:\Работа\C#\Design Patterns Metanit\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.dev.json
+D:\Работа\C#\Design Patterns Metanit\Visitor\bin\Debug\netcoreapp3.1\Visitor.dll
+D:\Работа\C#\Design Patterns Metanit\Visitor\bin\Debug\netcoreapp3.1\Visitor.pdb
+D:\Работа\C#\Design Patterns Metanit\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfoInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfo.cs
+D:\Работа\C#\Design Patterns Metanit\Visitor\obj\Debug\netcoreapp3.1\Visitor.csproj.CoreCompileInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Visitor\obj\Debug\netcoreapp3.1\Visitor.dll
+D:\Работа\C#\Design Patterns Metanit\Visitor\obj\Debug\netcoreapp3.1\Visitor.pdb
+D:\Работа\C#\Design Patterns Metanit\Visitor\obj\Debug\netcoreapp3.1\Visitor.genruntimeconfig.cache

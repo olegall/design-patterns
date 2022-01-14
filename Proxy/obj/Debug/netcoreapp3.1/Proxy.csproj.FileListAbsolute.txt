@@ -1,0 +1,13 @@
+D:\Работа\C#\Design Patterns Metanit\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+D:\Работа\C#\Design Patterns Metanit\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+D:\Работа\C#\Design Patterns Metanit\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+D:\Работа\C#\Design Patterns Metanit\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+D:\Работа\C#\Design Patterns Metanit\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+D:\Работа\C#\Design Patterns Metanit\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+D:\Работа\C#\Design Patterns Metanit\Proxy\obj\Debug\netcoreapp3.1\Proxy.csprojAssemblyReference.cache
+D:\Работа\C#\Design Patterns Metanit\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+D:\Работа\C#\Design Patterns Metanit\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+D:\Работа\C#\Design Patterns Metanit\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+D:\Работа\C#\Design Patterns Metanit\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache

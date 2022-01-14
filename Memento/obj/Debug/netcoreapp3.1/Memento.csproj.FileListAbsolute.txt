@@ -1,0 +1,12 @@
+D:\Работа\C#\Design Patterns Metanit\Memento\bin\Debug\netcoreapp3.1\Memento.exe
+D:\Работа\C#\Design Patterns Metanit\Memento\bin\Debug\netcoreapp3.1\Memento.deps.json
+D:\Работа\C#\Design Patterns Metanit\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.json
+D:\Работа\C#\Design Patterns Metanit\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.dev.json
+D:\Работа\C#\Design Patterns Metanit\Memento\bin\Debug\netcoreapp3.1\Memento.dll
+D:\Работа\C#\Design Patterns Metanit\Memento\bin\Debug\netcoreapp3.1\Memento.pdb
+D:\Работа\C#\Design Patterns Metanit\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfoInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfo.cs
+D:\Работа\C#\Design Patterns Metanit\Memento\obj\Debug\netcoreapp3.1\Memento.csproj.CoreCompileInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Memento\obj\Debug\netcoreapp3.1\Memento.dll
+D:\Работа\C#\Design Patterns Metanit\Memento\obj\Debug\netcoreapp3.1\Memento.pdb
+D:\Работа\C#\Design Patterns Metanit\Memento\obj\Debug\netcoreapp3.1\Memento.genruntimeconfig.cache

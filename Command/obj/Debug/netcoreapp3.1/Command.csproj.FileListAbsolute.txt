@@ -1,0 +1,12 @@
+D:\Работа\C#\Design Patterns Metanit\Command\bin\Debug\netcoreapp3.1\Command.exe
+D:\Работа\C#\Design Patterns Metanit\Command\bin\Debug\netcoreapp3.1\Command.deps.json
+D:\Работа\C#\Design Patterns Metanit\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.json
+D:\Работа\C#\Design Patterns Metanit\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.dev.json
+D:\Работа\C#\Design Patterns Metanit\Command\bin\Debug\netcoreapp3.1\Command.dll
+D:\Работа\C#\Design Patterns Metanit\Command\bin\Debug\netcoreapp3.1\Command.pdb
+D:\Работа\C#\Design Patterns Metanit\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfoInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfo.cs
+D:\Работа\C#\Design Patterns Metanit\Command\obj\Debug\netcoreapp3.1\Command.csproj.CoreCompileInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Command\obj\Debug\netcoreapp3.1\Command.dll
+D:\Работа\C#\Design Patterns Metanit\Command\obj\Debug\netcoreapp3.1\Command.pdb
+D:\Работа\C#\Design Patterns Metanit\Command\obj\Debug\netcoreapp3.1\Command.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+D:\Работа\C#\Design Patterns Metanit\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+D:\Работа\C#\Design Patterns Metanit\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CoreCompileInputs.cache

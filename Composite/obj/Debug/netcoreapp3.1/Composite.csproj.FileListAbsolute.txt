@@ -1,0 +1,13 @@
+D:\Работа\C#\Design Patterns Metanit\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+D:\Работа\C#\Design Patterns Metanit\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+D:\Работа\C#\Design Patterns Metanit\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+D:\Работа\C#\Design Patterns Metanit\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+D:\Работа\C#\Design Patterns Metanit\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+D:\Работа\C#\Design Patterns Metanit\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+D:\Работа\C#\Design Patterns Metanit\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+D:\Работа\C#\Design Patterns Metanit\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+D:\Работа\C#\Design Patterns Metanit\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+D:\Работа\C#\Design Patterns Metanit\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+D:\Работа\C#\Design Patterns Metanit\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache

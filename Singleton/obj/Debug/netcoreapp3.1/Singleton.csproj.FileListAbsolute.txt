@@ -1,0 +1,13 @@
+D:\Работа\C#\Design Patterns Metanit\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+D:\Работа\C#\Design Patterns Metanit\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+D:\Работа\C#\Design Patterns Metanit\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+D:\Работа\C#\Design Patterns Metanit\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+D:\Работа\C#\Design Patterns Metanit\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+D:\Работа\C#\Design Patterns Metanit\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+D:\Работа\C#\Design Patterns Metanit\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+D:\Работа\C#\Design Patterns Metanit\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+D:\Работа\C#\Design Patterns Metanit\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+D:\Работа\C#\Design Patterns Metanit\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+D:\Работа\C#\Design Patterns Metanit\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Работа\C#\Design Patterns Metanit\Strategy\bin\Debug\netcoreapp3.1\Strategy.exe
+D:\Работа\C#\Design Patterns Metanit\Strategy\bin\Debug\netcoreapp3.1\Strategy.deps.json
+D:\Работа\C#\Design Patterns Metanit\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+D:\Работа\C#\Design Patterns Metanit\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+D:\Работа\C#\Design Patterns Metanit\Strategy\bin\Debug\netcoreapp3.1\Strategy.dll
+D:\Работа\C#\Design Patterns Metanit\Strategy\bin\Debug\netcoreapp3.1\Strategy.pdb
+D:\Работа\C#\Design Patterns Metanit\Strategy\obj\Debug\netcoreapp3.1\Strategy.csprojAssemblyReference.cache
+D:\Работа\C#\Design Patterns Metanit\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+D:\Работа\C#\Design Patterns Metanit\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
+D:\Работа\C#\Design Patterns Metanit\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
+D:\Работа\C#\Design Patterns Metanit\Strategy\obj\Debug\netcoreapp3.1\Strategy.genruntimeconfig.cache

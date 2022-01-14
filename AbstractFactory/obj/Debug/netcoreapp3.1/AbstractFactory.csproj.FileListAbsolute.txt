@@ -1,0 +1,13 @@
+D:\Работа\C#\Design Patterns Metanit\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+D:\Работа\C#\Design Patterns Metanit\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+D:\Работа\C#\Design Patterns Metanit\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+D:\Работа\C#\Design Patterns Metanit\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+D:\Работа\C#\Design Patterns Metanit\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+D:\Работа\C#\Design Patterns Metanit\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+D:\Работа\C#\Design Patterns Metanit\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+D:\Работа\C#\Design Patterns Metanit\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+D:\Работа\C#\Design Patterns Metanit\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+D:\Работа\C#\Design Patterns Metanit\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\Работа\C#\Design Patterns Metanit\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+D:\Работа\C#\Design Patterns Metanit\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+D:\Работа\C#\Design Patterns Metanit\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache

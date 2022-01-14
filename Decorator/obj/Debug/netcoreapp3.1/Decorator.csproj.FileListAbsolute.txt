@@ -1,0 +1,12 @@
+D:\Работа\C#\Design Patterns Metanit\Decorator\bin\Debug\netcoreapp3.1\Decorator.exe
+D:\Работа\C#\Design Patterns Metanit\Decorator\bin\Debug\netcoreapp3.1\Decorator.deps.json
+D:\Работа\C#\Design Patterns Metanit\Decorator\bin\Debug\netcoreapp3.1\Decorator.runtimeconfig.json
+D:\Работа\C#\Design Patterns Metanit\Decorator\bin\Debug\netcoreapp3.1\Decorator.runtimeconfig.dev.json
+D:\Работа\C#\Design Patterns Metanit\Decorator\bin\Debug\netcoreapp3.1\Decorator.dll
+D:\Работа\C#\Design Patterns Metanit\Decorator\bin\Debug\netcoreapp3.1\Decorator.pdb
+D:\Работа\C#\Design Patterns Metanit\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfoInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfo.cs
+D:\Работа\C#\Design Patterns Metanit\Decorator\obj\Debug\netcoreapp3.1\Decorator.csproj.CoreCompileInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Decorator\obj\Debug\netcoreapp3.1\Decorator.dll
+D:\Работа\C#\Design Patterns Metanit\Decorator\obj\Debug\netcoreapp3.1\Decorator.pdb
+D:\Работа\C#\Design Patterns Metanit\Decorator\obj\Debug\netcoreapp3.1\Decorator.genruntimeconfig.cache

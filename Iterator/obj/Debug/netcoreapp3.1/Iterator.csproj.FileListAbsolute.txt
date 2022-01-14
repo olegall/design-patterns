@@ -1,0 +1,13 @@
+D:\Работа\C#\Design Patterns Metanit\Iterator\bin\Debug\netcoreapp3.1\Iterator.exe
+D:\Работа\C#\Design Patterns Metanit\Iterator\bin\Debug\netcoreapp3.1\Iterator.deps.json
+D:\Работа\C#\Design Patterns Metanit\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.json
+D:\Работа\C#\Design Patterns Metanit\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.dev.json
+D:\Работа\C#\Design Patterns Metanit\Iterator\bin\Debug\netcoreapp3.1\Iterator.dll
+D:\Работа\C#\Design Patterns Metanit\Iterator\bin\Debug\netcoreapp3.1\Iterator.pdb
+D:\Работа\C#\Design Patterns Metanit\Iterator\obj\Debug\netcoreapp3.1\Iterator.csprojAssemblyReference.cache
+D:\Работа\C#\Design Patterns Metanit\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfoInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfo.cs
+D:\Работа\C#\Design Patterns Metanit\Iterator\obj\Debug\netcoreapp3.1\Iterator.csproj.CoreCompileInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Iterator\obj\Debug\netcoreapp3.1\Iterator.dll
+D:\Работа\C#\Design Patterns Metanit\Iterator\obj\Debug\netcoreapp3.1\Iterator.pdb
+D:\Работа\C#\Design Patterns Metanit\Iterator\obj\Debug\netcoreapp3.1\Iterator.genruntimeconfig.cache

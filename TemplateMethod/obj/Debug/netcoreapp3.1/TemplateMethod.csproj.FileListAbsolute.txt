@@ -1,0 +1,12 @@
+D:\Работа\C#\Design Patterns Metanit\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.exe
+D:\Работа\C#\Design Patterns Metanit\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.deps.json
+D:\Работа\C#\Design Patterns Metanit\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.json
+D:\Работа\C#\Design Patterns Metanit\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.dev.json
+D:\Работа\C#\Design Patterns Metanit\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.dll
+D:\Работа\C#\Design Patterns Metanit\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.pdb
+D:\Работа\C#\Design Patterns Metanit\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfoInputs.cache
+D:\Работа\C#\Design Patterns Metanit\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfo.cs
+D:\Работа\C#\Design Patterns Metanit\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\Работа\C#\Design Patterns Metanit\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.dll
+D:\Работа\C#\Design Patterns Metanit\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.pdb
+D:\Работа\C#\Design Patterns Metanit\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.genruntimeconfig.cache

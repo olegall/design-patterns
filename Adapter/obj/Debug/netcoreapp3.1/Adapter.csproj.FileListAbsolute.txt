@@ -1,0 +1,13 @@
+D:\Работа\C#\Design Patterns Metanit\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+D:\Работа\C#\Design Patterns Metanit\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+D:\Работа\C#\Design Patterns Metanit\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+D:\Работа\C#\Design Patterns Metanit\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+D:\Работа\C#\Design Patterns Metanit\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+D:\Работа\C#\Design Patterns Metanit\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+D:\Работа\C#\Design Patterns Metanit\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+D:\Работа\C#\Design Patterns Metanit\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+D:\Работа\C#\Design Patterns Metanit\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+D:\Работа\C#\Design Patterns Metanit\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+D:\Работа\C#\Design Patterns Metanit\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache

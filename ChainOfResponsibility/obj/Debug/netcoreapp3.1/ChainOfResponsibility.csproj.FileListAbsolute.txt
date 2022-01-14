@@ -1,0 +1,13 @@
+D:\Работа\C#\Design Patterns Metanit\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.exe
+D:\Работа\C#\Design Patterns Metanit\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.deps.json
+D:\Работа\C#\Design Patterns Metanit\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.runtimeconfig.json
+D:\Работа\C#\Design Patterns Metanit\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.runtimeconfig.dev.json
+D:\Работа\C#\Design Patterns Metanit\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.dll
+D:\Работа\C#\Design Patterns Metanit\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.pdb
+D:\Работа\C#\Design Patterns Metanit\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.csprojAssemblyReference.cache
+D:\Работа\C#\Design Patterns Metanit\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.AssemblyInfoInputs.cache
+D:\Работа\C#\Design Patterns Metanit\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.AssemblyInfo.cs
+D:\Работа\C#\Design Patterns Metanit\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+D:\Работа\C#\Design Patterns Metanit\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.dll
+D:\Работа\C#\Design Patterns Metanit\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.pdb
+D:\Работа\C#\Design Patterns Metanit\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.genruntimeconfig.cache

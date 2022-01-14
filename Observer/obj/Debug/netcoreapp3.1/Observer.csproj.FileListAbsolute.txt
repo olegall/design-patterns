@@ -1,0 +1,12 @@
+D:\Работа\C#\Design Patterns Metanit\Observer\bin\Debug\netcoreapp3.1\Observer.exe
+D:\Работа\C#\Design Patterns Metanit\Observer\bin\Debug\netcoreapp3.1\Observer.deps.json
+D:\Работа\C#\Design Patterns Metanit\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.json
+D:\Работа\C#\Design Patterns Metanit\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.dev.json
+D:\Работа\C#\Design Patterns Metanit\Observer\bin\Debug\netcoreapp3.1\Observer.dll
+D:\Работа\C#\Design Patterns Metanit\Observer\bin\Debug\netcoreapp3.1\Observer.pdb
+D:\Работа\C#\Design Patterns Metanit\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfoInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfo.cs
+D:\Работа\C#\Design Patterns Metanit\Observer\obj\Debug\netcoreapp3.1\Observer.csproj.CoreCompileInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Observer\obj\Debug\netcoreapp3.1\Observer.dll
+D:\Работа\C#\Design Patterns Metanit\Observer\obj\Debug\netcoreapp3.1\Observer.pdb
+D:\Работа\C#\Design Patterns Metanit\Observer\obj\Debug\netcoreapp3.1\Observer.genruntimeconfig.cache

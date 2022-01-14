@@ -1,0 +1,12 @@
+D:\Работа\C#\Design Patterns Metanit\Bridge\bin\Debug\netcoreapp3.1\Bridge.exe
+D:\Работа\C#\Design Patterns Metanit\Bridge\bin\Debug\netcoreapp3.1\Bridge.deps.json
+D:\Работа\C#\Design Patterns Metanit\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.json
+D:\Работа\C#\Design Patterns Metanit\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.dev.json
+D:\Работа\C#\Design Patterns Metanit\Bridge\bin\Debug\netcoreapp3.1\Bridge.dll
+D:\Работа\C#\Design Patterns Metanit\Bridge\bin\Debug\netcoreapp3.1\Bridge.pdb
+D:\Работа\C#\Design Patterns Metanit\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfoInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfo.cs
+D:\Работа\C#\Design Patterns Metanit\Bridge\obj\Debug\netcoreapp3.1\Bridge.csproj.CoreCompileInputs.cache
+D:\Работа\C#\Design Patterns Metanit\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
+D:\Работа\C#\Design Patterns Metanit\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb
+D:\Работа\C#\Design Patterns Metanit\Bridge\obj\Debug\netcoreapp3.1\Bridge.genruntimeconfig.cache
