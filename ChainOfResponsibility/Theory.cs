@@ -10,6 +10,7 @@
             h1.HandleRequest(2);
         }
     }
+
     abstract class Handler
     {
         public Handler Successor { get; set; }

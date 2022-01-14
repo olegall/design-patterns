@@ -26,7 +26,7 @@ namespace Prototype
 
             CirclePoint figure2 = new CirclePoint(30, 50, 60);
             // применяем глубокое копирование
-            CirclePoint clonedFigure3 = figure.DeepCopy() as CirclePoint;
+            CirclePoint clonedFigure3 = figure2.DeepCopy() as CirclePoint;
             figure2.Point.X = 100;
             figure2.GetInfo();
             clonedFigure3.GetInfo();

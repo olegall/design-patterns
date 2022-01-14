@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Mediator
+﻿namespace Mediator
 {
     abstract class MediatorTheory
     {
@@ -21,38 +17,33 @@ namespace Mediator
 
     class ConcreteColleague1 : ColleagueTheory
     {
-        public ConcreteColleague1(MediatorTheory mediator)
-            : base(mediator)
-        { }
+        public ConcreteColleague1(MediatorTheory mediator) : base(mediator) { }
 
         public void Send(string message)
         {
             mediator.Send(message, this);
         }
 
-        public void Notify(string message)
-        { }
+        public void Notify(string message) { }
     }
 
     class ConcreteColleague2 : ColleagueTheory
     {
-        public ConcreteColleague2(MediatorTheory mediator)
-            : base(mediator)
-        { }
+        public ConcreteColleague2(MediatorTheory mediator) : base(mediator) { }
 
         public void Send(string message)
         {
             mediator.Send(message, this);
         }
 
-        public void Notify(string message)
-        { }
+        public void Notify(string message) { }
     }
 
     class ConcreteMediator : MediatorTheory
     {
         public ConcreteColleague1 Colleague1 { get; set; }
         public ConcreteColleague2 Colleague2 { get; set; }
+
         public override void Send(string msg, ColleagueTheory colleague)
         {
             if (Colleague1 == colleague)

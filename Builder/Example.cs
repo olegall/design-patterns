@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Text;
 
 namespace Builder
 {
@@ -10,9 +8,10 @@ namespace Builder
         // какого сорта мука
         public string Sort { get; set; }
     }
+
     // соль
-    class Salt
-    { }
+    class Salt { }
+
     // пищевые добавки
     class Additives
     {
@@ -23,10 +22,13 @@ namespace Builder
     {
         // мука
         public Flour Flour { get; set; }
+
         // соль
         public Salt Salt { get; set; }
+
         // пищевые добавки
         public Additives Additives { get; set; }
+
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
@@ -37,6 +39,7 @@ namespace Builder
                 sb.Append("Соль \n");
             if (Additives != null)
                 sb.Append("Добавки: " + Additives.Name + " \n");
+
             return sb.ToString();
         }
     }
@@ -45,14 +48,17 @@ namespace Builder
     abstract class BreadBuilder
     {
         public Bread Bread { get; private set; }
+
         public void CreateBread()
         {
             Bread = new Bread();
         }
+
         public abstract void SetFlour();
         public abstract void SetSalt();
         public abstract void SetAdditives();
     }
+
     // пекарь
     class Baker
     {
@@ -65,6 +71,7 @@ namespace Builder
             return breadBuilder.Bread;
         }
     }
+
     // строитель для ржаного хлеба
     class RyeBreadBuilder : BreadBuilder
     {
@@ -83,6 +90,7 @@ namespace Builder
             // не используется
         }
     }
+
     // строитель для пшеничного хлеба
     class WheatBreadBuilder : BreadBuilder
     {
