@@ -7,13 +7,10 @@ namespace Adapter
         void Drive();
     }
 
-    // класс машины
-    class Auto : ITransport
+    // интерфейс животного
+    interface IAnimal
     {
-        public void Drive()
-        {
-            Console.WriteLine("Машина едет по дороге");
-        }
+        void Move();
     }
 
     class Driver
@@ -22,12 +19,6 @@ namespace Adapter
         {
             transport.Drive();
         }
-    }
-
-    // интерфейс животного
-    interface IAnimal
-    {
-        void Move();
     }
 
     // класс верблюда
@@ -39,10 +30,20 @@ namespace Adapter
         }
     }
 
+    // класс машины
+    class Auto : ITransport
+    {
+        public void Drive()
+        {
+            Console.WriteLine("Машина едет по дороге");
+        }
+    }
+
     // Адаптер от Camel к ITransport
     class CamelToTransportAdapter : ITransport
     {
         Camel camel;
+
         public CamelToTransportAdapter(Camel c)
         {
             camel = c;

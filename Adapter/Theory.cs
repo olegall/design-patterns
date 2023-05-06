@@ -11,8 +11,7 @@
     // класс, к которому надо адаптировать другой класс   
     class Target
     {
-        public virtual void Request()
-        { }
+        public virtual void Request() { }
     }
 
     // Адаптер

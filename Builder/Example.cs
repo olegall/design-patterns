@@ -35,8 +35,10 @@ namespace Builder
 
             if (Flour != null)
                 sb.Append(Flour.Sort + "\n");
+
             if (Salt != null)
                 sb.Append("Соль \n");
+
             if (Additives != null)
                 sb.Append("Добавки: " + Additives.Name + " \n");
 
@@ -57,19 +59,6 @@ namespace Builder
         public abstract void SetFlour();
         public abstract void SetSalt();
         public abstract void SetAdditives();
-    }
-
-    // пекарь
-    class Baker
-    {
-        public Bread Bake(BreadBuilder breadBuilder)
-        {
-            breadBuilder.CreateBread();
-            breadBuilder.SetFlour();
-            breadBuilder.SetSalt();
-            breadBuilder.SetAdditives();
-            return breadBuilder.Bread;
-        }
     }
 
     // строитель для ржаного хлеба
@@ -107,6 +96,19 @@ namespace Builder
         public override void SetAdditives()
         {
             this.Bread.Additives = new Additives { Name = "улучшитель хлебопекарный" };
+        }
+    }
+
+    // пекарь
+    class Baker
+    {
+        public Bread Bake(BreadBuilder breadBuilder)
+        {
+            breadBuilder.CreateBread();
+            breadBuilder.SetFlour();
+            breadBuilder.SetSalt();
+            breadBuilder.SetAdditives();
+            return breadBuilder.Bread;
         }
     }
 }

@@ -27,6 +27,8 @@ namespace Strategy
     {
         protected int passengers; // кол-во пассажиров
         protected string model; // модель автомобиля
+        
+        public IMovable Movable { private get; set; }
 
         public Car(int num, string model, IMovable mov)
         {
@@ -34,8 +36,6 @@ namespace Strategy
             this.model = model;
             Movable = mov;
         }
-
-        public IMovable Movable { private get; set; }
 
         public void Move()
         {

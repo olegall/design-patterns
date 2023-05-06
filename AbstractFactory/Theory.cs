@@ -49,6 +49,7 @@
         private AbstractProductA abstractProductA;
         private AbstractProductB abstractProductB;
 
+        // конкретная фабрика создаёт семейство объектов. у разных фабрик одинаковые абстрактные объекты, разные конкретные.
         public Client(AbstractFactory factory)
         {
             abstractProductB = factory.CreateProductB();
